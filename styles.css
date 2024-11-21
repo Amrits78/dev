@@ -1,0 +1,95 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: large
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 28px;
+  color: #333;
+}
+
+h2 {
+  font-size: 24px;
+  color: #4CAF50;
+}
+
+h3 {
+  font-size: 24px;
+  color: #555;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.highlight {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.testimonials {
+  background: #e8f5e9;
+  border-left: 5px solid #4CAF50;
+  padding: 10px;
+  margin: 20px 0;
+  font-style: italic;
+}
+
+.call-to-action {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #333;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li{ font-size: 18px;}
+
